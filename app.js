@@ -1,5 +1,5 @@
 ReactDOM.render(
-	<SuperHeroPage />,
+	<SuperHeroPage></SuperHeroPage>,
 	document.getElementById("content")
 );
 
